@@ -6,7 +6,7 @@ Grote Alexandra, Yichao Li, Canhui Liu, Denis Voronin, Adam Geber, Sara Lustigma
 
 # Directories
 
-Raw motif discovery results were provided in folders such as `L3D6_L3`, which means up-regulated genes in L3D6 comparing to L3.
+Raw motif discovery results were provided in folders such as `L3D6_L3`, which means up-regulated genes in L3D6 comparing to L3. Each folder also contains the fasta sequences (i.e., `fore.fa` and `back.fa`) used to perform motif analysis. Motif analysis was done using [Emotif_alpha](https://github.com/YichaoOU/Emotif_Alpha)
 
 Genome features and orthologs info were provided in `genome_data`.
 
