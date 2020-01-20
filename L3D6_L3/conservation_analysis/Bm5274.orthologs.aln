@@ -1,0 +1,117 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Bm5274              -------TTATACA------------TATACAAA-TGA----GTG--------AATAAA-
+WBGene00248001      ATAAAAGTTATTCAAATTTTGAATGCCATATAAA-TAATGAAGTATTTACTTCGACAAAT
+WBGene00000851      ----TAGTGGAACAG-----------TATACCGACTTGTTCCGTTCCCTCT-CAATTCCC
+                           *    **             ***   * *      **          *     
+
+Bm5274              --AGAGTCACAAA------------------GGAT------TGAA-----TGAAAA----
+WBGene00248001      TTAAAGCCAAAAATCTTTGCTTCCTTATTTCAGATATATTTTGAAAATGTTAAAAATTTT
+WBGene00000851      CATGATTCTCAGT------------------GAATAAGC--TGCAGTGGCTGAGAA----
+                        *  *  *                      **      ** *     * * **    
+
+Bm5274              -------------------------------------GATAAAA-GCAT---AA---AAT
+WBGene00248001      TCTTTAATTAACTTGTTTTTCTCATTACTCAGAATCTGTTAAAATACAT---ATTATAAT
+WBGene00000851      -------------------------------GGAGTAGGAGGAGGGTGTCTGATTAAAAT
+                                                         *    *     *   *    ***
+
+Bm5274              TGC------------ATT------AGAAAAGAGAAAG-----------------TGACA-
+WBGene00248001      TACCTGCTTAAGTTAATTTCAAAAAAAAAAAAGAAAGAAAAAAAAAAGATCTCATGTCAG
+WBGene00000851      GAT----------TAATT------AGAGATTGGAAAG--------------TGGTAACAA
+                                   ***      * * *   *****                 *  ** 
+
+Bm5274              ----CGAATGCTTT-GTTTAT------------------AGTTCAAGTTAAA---CTAGA
+WBGene00248001      TTATTGAATGTTTTTGTTCACTTCTACCAACAGAATTTCAATTCACATTTCA---TTAGA
+WBGene00000851      CACAGTAATCCAGTTGTGTAA------------------GGCTGCGGCGATATGCCTTGG
+                          ***    * **  *                      *        *    * * 
+
+Bm5274              AGTGATCAA--CC--------AAATTACT------TTC----CCTTTCTATA--------
+WBGene00248001      AGGATTCTAATTC--------AAAATTTTAAACAATTCGAGTCATGCGCATAGATAAATA
+WBGene00000851      CGCGCCCTGTTTCTTGCGAACAAGCCTGTG-----TTC-----GTGAATATGGT---AGA
+                     *    *     *        **     *      ***      *    **         
+
+Bm5274              -----------------------AAACTTCAAAATCCCCGCAAAAGTCAAATCA---AAT
+WBGene00248001      AAGAAAAGGATCATAGGGAGAGTAAACAGAGAGATCGAAGCATAGGTGACATTAGAAAAT
+WBGene00000851      GATGAGGGGACGGAGAGGGAAAGAGAGGCGGAGAGAGGAGCAAGAACCA-GCTAGA-AAT
+                                           * *     * *     ***      *    *   ***
+
+Bm5274              ------------------------CCTTTGAT--TT-------GACATCGAATGACAATT
+WBGene00248001      ATGAAAAGAGAAAGTAAGAAAATATCATTGATGCTTCGTTTAAGAAAGTGAAAGAAATCA
+WBGene00000851      G---------------ATACATTACTGTAGATG--T-------GGTAT--AAAGACGGCG
+                                               * ***   *       *  *   ** **     
+
+Bm5274              TTTGCTTT--TTTTGCTTTT------------------------TTTTTT----TC---T
+WBGene00248001      TTTACTTTCGTTTTCATTCTAAATTTCAAGAAAATCAGAACAAGTCTTTTGATATCGAAT
+WBGene00000851      TC-ACCAC--TATTGATATTA-------------------------TTCCG----C---T
+                    *   *     * **  *  *                          **       *   *
+
+Bm5274              TATA--TTCCTTCTTTGCAAATGTATTTCTGAAATAAGCATCTGACCTTTTGAATCAGTC
+WBGene00248001      TATAATTTCTCTCTTCGCAAATTTGTTTCTTAAATAAGCATCTGACCTTTCGGATCGGCA
+WBGene00000851      T-----TTCTCTCCTTTTAATCGC-CTTCTGAGACACAAATCGGA-----TGAACTGG--
+                    *     ***  ** *   **      **** * * *   *** **      * *   *  
+
+Bm5274              GCAATATGAAAGAAAGAAAATTACTCCCCAAAAATCGTTAAATTGATAATTCAATATTAA
+WBGene00248001      AAGGCAGGAAAGAAAAGAAATTGTTTCC---AAGTCGT-AAACGGATCATTCAACGTAAA
+WBGene00000851      ----------AAAATGATGATTAC--------AATTGGCAAGC-----ATTTG-TATTAT
+                              * **     ***          * * *  **       ***     * * 
+
+Bm5274              TTAATATACAAATTAATACGTTAAATTATTCGCTGTAAATTGATAAAAATTTTTCTGTCA
+WBGene00248001      CTAACA-----------GCGTT-------TCACGGTAAACTAATAAAA--TTTCCTGTCA
+WBGene00000851      CTAATAT---------TATCCT-------TAACGTTA--CTATCCAAA--TCTTGACTCG
+                     *** *               *       *  *  **   *    ***  * *    ** 
+
+Bm5274              TTATTGTTGGAATGATGACAGTGTCCC-ACCTTTTCCAATTTCCTTTCTCAGAATTTGAT
+WBGene00248001      TCATAGTTGGAATGATGATAATGTCCCCATCTTTTCCAATTTCCTTTTTCGG---TTGGT
+WBGene00000851      TTCTAGTCGTATAATTGACAGCA---------TTTTTAATTTAACATCTC----------
+                    *  * ** * *    *** *            ***  *****    * **          
+
+Bm5274              AAAGTTTGGAATCCTGATT-TTGATATATCCAGTTCAAGAACTCCTTTCTCTCTTTCTC-
+WBGene00248001      AAAGTT-GGAATCCTGATT-TTGATAGATCCAGTTCAAGAATTCCCTCTTCTCTTTTCCA
+WBGene00000851      AAAGCT-----TCATTATTCTTTATTGATCTT-CTCATAAACTCCGCTCTATC---CTCA
+                    **** *     ** * *** ** **  ***    ***  ** ***    * **     * 
+
+Bm5274              --CTTTCTA-GCAATCTTTTTTACC-GTCTTTCTCCACTT----TAAAACTCCGCCTTTT
+WBGene00248001      ACCTTTTCA-ACAGCCTTTTCCCCCCGTCCTCCTTCCGTCCTCCTAAAACCCCGCCTTTT
+WBGene00000851      AGTATCGTATATCCTCTATTGCACACATCATTTTGAAAGGT---TATATCTCGGTTCATT
+                        *   *      ** **   *   ** *  *          ** * * * *    **
+
+Bm5274              ATCAGGG-ATTGGAAA-GAAC-GATTACATCGGAACTTCCATCCTTC-ATCCACCTGCAT
+WBGene00248001      CT-AGGG-ATTCGAAA-GAAT-GATTACATCGGAACTTCCATCCTTTTACCCACCTG--T
+WBGene00000851      TTAATGATATTGATAACGAATTAATTACAAAGCAAT----------------AGAAAAAT
+                     * * *  ***   ** ***   ******  * **                 *      *
+
+Bm5274              ATTTCGAAAAACAGG-ATAA--CGATGACCTCCGTT---GCTATCATCTATTGAAAAAGG
+WBGene00248001      ATTTCTAAAAACAGG-ATAA--CGGTGACCTCCGCC---GCTATAATCTATTGAAAAAGG
+WBGene00000851      ATTTAACAAAAAAGTTATCAGTTGACAATTTTTGTATAAGCT-CAATCAATTATTAATCG
+                    ****   **** **  ** *   *   *  *  *     ***   *** ***   **  *
+
+Bm5274              AAAATTGGGAAATTTT---AGTGCTCACTATAGTGTATAACATACGCTCAACGCTTATAT
+WBGene00248001      AAAATGGGGAGATCTTCTTGGTGCTCATCATAGTGTA-----------------------
+WBGene00000851      GTAATCGTTGAATTCTT----TGTT--TTAGAAT-TCTTTTAAAGATTAATTGCTCATTT
+                      *** *    **  *     ** *    * * * *                        
+
+Bm5274              AAAAGGAACTTCAGGCGTGACAATCATTTGTTGTCTCTTTAATTTGATATTG-TGTTTAC
+WBGene00248001      ------------------------------------------------------------
+WBGene00000851      CAA----GCTTC-----TGACTTTAAACCGTTGTGTCCTAAA--AAATACCAACGATACC
+                                                                                
+
+Bm5274              GAAAAGTTTGCAATCCTGATTATCACTATTATCATTATCATTATTACTATTACTATTTCT
+WBGene00248001      ------------------------------------------------------------
+WBGene00000851      AAAAACTTTTGAACTACAAAAATAAGGAATATTCTTCTTATTTCTAGTTTTGCCAATTTT
+                                                                                
+
+Bm5274              AGCAGTCTGAAAGCATAACTTGATATCACTCAAGCGCTGTTGGCACGCATAAACATTACG
+WBGene00248001      ------------------------------------------------------------
+WBGene00000851      TG-AGACTATCAA-ATTTTTTGTTTGCGACCGAAAATT-CTGGGACCTAGTAGTTTTTCT
+                                                                                
+
+Bm5274              ATATCTCATTAGTTTTGTTGTTTTTTTTTTCGAC-TGATACTTTTACTGATAACGGTTCT
+WBGene00248001      ------------------------------------------------------------
+WBGene00000851      GAATTTCACT--CCTTATTCCTTCCTCTCAAGCCCTTATACGACCTCTAAACTCTATCCA
+                                                                                
+
+Bm5274              TG-
+WBGene00248001      ---
+WBGene00000851      CAG
+                       

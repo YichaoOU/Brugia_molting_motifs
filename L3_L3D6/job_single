@@ -1,0 +1,10 @@
+#PBS -N L3_L3D6_output
+#PBS -l walltime=12:00:00
+#PBS -l nodes=1:ppn=2
+#PBS -j oe
+#PBS -l mem=16GB
+
+
+cd /users/PHS0293/ohu0404/project/Brugia/FC4/L3_L3D6
+
+Emotif_alpha -jid L3_L3D6 -confFile test.conf
